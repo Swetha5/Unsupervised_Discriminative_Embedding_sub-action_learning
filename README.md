@@ -1,0 +1,2 @@
+# Unsupervised_Discriminative_Embedding_sub-action_learning
+Unsupervised discriminative embedding for sub-action learning in complex activities
